@@ -72,7 +72,6 @@ The model was evaluated using a test split from the `loan_approval_data.csv`. Th
 ## ✍️ Author
 **Ritesh Kumar**
 * **GitHub:** [@ritesh-kr18](https://github.com/ritesh-kr18)
-* **LinkedIn:** [Your LinkedIn Profile Link]
 * **Project Repository:** [TrustFlow-Credit_Wise-Loan_Approval_System](https://github.com/ritesh-kr18/TrustFlow-Credit_Wise-Loan_Approval_System)
 
 ---

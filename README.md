@@ -3,8 +3,7 @@
 **TrustFlow** is a high-precision Machine Learning application designed to automate credit risk assessment. By leveraging a Decision Tree algorithm, the system evaluates applicant data to provide instant, data-driven loan approval decisions.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trustflow-creditwise-loanapprovalsystem-tbd3rcuwd279azk2yidr5n.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
 ---
 
@@ -70,10 +69,18 @@ The model was evaluated using a test split from the `loan_approval_data.csv`. Th
 
 ---
 
+## ✍️ Author
+**Ritesh Kumar**
+* **GitHub:** [@ritesh-kr18](https://github.com/ritesh-kr18)
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Project Repository:** [TrustFlow-Credit_Wise-Loan_Approval_System](https://github.com/ritesh-kr18/TrustFlow-Credit_Wise-Loan_Approval_System)
+
+---
+
 ## ⚙️ Setup & Installation
 To run this project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/PASTE_YOUR_GITHUB_USERNAME_HERE/TrustFlow.git](https://github.com/PASTE_YOUR_GITHUB_USERNAME_HERE/TrustFlow.git)
-   cd TrustFlow
+   git clone [https://github.com/ritesh-kr18/TrustFlow-Credit_Wise-Loan_Approval_System.git](https://github.com/ritesh-kr18/TrustFlow-Credit_Wise-Loan_Approval_System.git)
+   cd TrustFlow-Credit_Wise-Loan_Approval_System

@@ -8,6 +8,8 @@ model = joblib.load('loan_model.pkl')
 scaler = joblib.load('scaler.pkl')
 
 st.set_page_config(page_title="TrustFlow Loan System", layout="wide")
+
+st.info("⚡ If the app was inactive, it may take ~20 seconds to wake up.")
 st.title("🏦 TrustFlow: Loan Approval Prediction System")
 st.write("Enter the applicant's details below to check for loan eligibility.")
 
